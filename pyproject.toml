@@ -2,7 +2,7 @@
 name = "greenflow"
 version = "0.1.0"
 description = "A CLI tool to help understand how network traffic moves across the real world, what powers it, its CO2 footprint "
-authors = ["Chris Adams <chris@thegreenwebfoundation.org>"]
+authors = ["Chris Adams <chris@thegreenwebfoundation.org>", "Emile Aben <emile.aben@ripe.net>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
