@@ -1,7 +1,7 @@
 # greenflow
 A CLI tool to help you understand how network traffic moves across the real world, what powers it, its CO2 footprint.
 
-## # The dream:
+## The dream:
 
 
 > Chris Adams: It works by driving a headless browser to analyse a page. My interest has been to extend it further down the stack, and then expose this, so you'd be able to picture the digital footprint of an application by seeing where geographically the packets are routed form, and what power grids they pass thorugh.
@@ -25,3 +25,11 @@ A CLI tool to help you understand how network traffic moves across the real worl
 > Emile Aben: cool
 >
 > Emile Aben: we can do this.
+
+
+## TODO
+
+- [ ] make an actual readme
+- [ ] make a starting changelog
+- [ ] sketch out a plan, and make some issues
+- [ ] actually start writing code
