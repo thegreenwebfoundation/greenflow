@@ -5,10 +5,12 @@ description = "A CLI tool to help understand how network traffic moves across th
 authors = ["Chris Adams <chris@thegreenwebfoundation.org>", "Emile Aben <emile.aben@ripe.net>"]
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = ">=3.6.10"
+pydeck = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^6"
+pytest-xdist = "^2.1.0"
 
 [build-system]
 requires = ["poetry>=0.12"]
